@@ -28,7 +28,9 @@ This project aims to ease the process of retrieving carbon intensity data and CO
 - `regions.json`: map regions supported by Carbon API to those of COVID API
 
 ### Sample Return Values:
-
+- `regionid`: `7`
+- `start_date`: `2022-09-14`
+- `end_date`: `2022-09-15`
 ```
 {
   "regionid": 7,
@@ -53,15 +55,16 @@ This project aims to ease the process of retrieving carbon intensity data and CO
       "covidcases": 294
     },
     // ...more data
+  ]
 }
 ```
 
-
-
+- `regionid`: `6`
+- `start_date`: `2023-09-15`
+- `end_date`: `2023-09-16`
 ```
 {
-  "error": "400 Bad Request",
-  "message": "Failed to retrieve carbon data: The start datetime should be less than the end datetime i.e. /intensity/2017-08-25T15:30Z/2017-08-27T17:00Z"
+  "message": "No Data Found for Carbon Intensity. Please make sure date range is valid (<60 days or end date is after start date)"
 }
 ```
 
