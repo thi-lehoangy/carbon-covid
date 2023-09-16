@@ -1,0 +1,87 @@
+{
+  "1": {
+    "regionId": 1,
+    "shortName": "North Scotland",
+    "areaCode": "S92000003"
+  },
+  "2": {
+    "regionId": 2,
+    "shortName": "South Scotland",
+    "areaCode": "S92000003"
+  },
+  "3": {
+    "regionId": 3,
+    "shortName": "North West England",
+    "areaCode": "E12000002"
+  },
+  "4": {
+    "regionId": 4,
+    "shortName": "North East England",
+    "areaCode": "E12000001"
+  },
+  "5": {
+    "regionId": 5,
+    "shortName": "Yorkshire",
+    "areaCode": "E12000003"
+  },
+  "6": {
+    "regionId": 6,
+    "shortName": "North Wales",
+    "areaCode": "W92000004"
+  },
+  "7": {
+    "regionId": 7,
+    "shortName": "South Wales",
+    "areaCode": "W92000004"
+  },
+  "8": {
+    "regionId": 8,
+    "shortName": "West Midlands",
+    "areaCode": "E12000005"
+  },
+  "9": {
+    "regionId": 9,
+    "shortName": "East Midlands",
+    "areaCode": "E12000004"
+  },
+  "10": {
+    "regionId": 10,
+    "shortName": "East England",
+    "areaCode": "E12000006"
+  },
+  "11": {
+    "regionId": 11,
+    "shortName": "South West England",
+    "areaCode": "E12000009"
+  },
+  "12": {
+    "regionId": 12,
+    "shortName": "South England",
+    "areaCode": "E92000001"
+  },
+  "13": {
+    "regionId": 13,
+    "shortName": "London",
+    "areaCode": "E12000007"
+  },
+  "14": {
+    "regionId": 14,
+    "shortName": "South East England",
+    "areaCode": "E12000008"
+  },
+  "15": {
+    "regionId": 15,
+    "shortName": "England",
+    "areaCode": "E92000001"
+  },
+  "16": {
+    "regionId": 16,
+    "shortName": "Scotland",
+    "areaCode": "S92000003"
+  },
+  "17": {
+    "regionId": 17,
+    "shortName": "Wales",
+    "areaCode": "W92000004"
+  }
+}
